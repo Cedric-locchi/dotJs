@@ -1,0 +1,9 @@
+# config webstorm
+.idea
+
+# module NPM
+node_modules
+
+# dev folder
+dev
+hold
